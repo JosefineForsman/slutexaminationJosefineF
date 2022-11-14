@@ -1,5 +1,4 @@
 const BASE_URL = 'https://fathomless-shelf-54969.herokuapp.com'; // URL till APIet
-const API_KEY ='solaris-HipRojQEq5sRjt3s';
 const slider = document.querySelector(".slider"); // Info page about the planets
 const btn = document.querySelector("button");
 const section = document.querySelector('section');
@@ -7,7 +6,6 @@ const planetElems = document.querySelectorAll('figure');
 const sun = document.querySelector('#Solen');
 let ListOfPlanets = '';
 let el='';
-
 
 // This function gives me the API-KEY.
 async function getKey(){

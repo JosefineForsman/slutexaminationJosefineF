@@ -344,4 +344,7 @@ button {
     section h4 {
         font-size: 19px;
     }
+    .logo2{
+        display: none;
+    }
 }

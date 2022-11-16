@@ -316,15 +316,15 @@ button {
 }
 @media only screen and (max-width: 1450px){
     #Solen {
-        top: -240px;
+        top: -290px;
         left: -1250px;
     }
     .circle2 {
-        top: -250px;
+        top: -305px;
         left: -1230px;
     }
     .circle3 {
-        top: -270px;
+        top: -335px;
         left: -1255px;
     }
     section {

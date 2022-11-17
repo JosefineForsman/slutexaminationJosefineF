@@ -178,7 +178,7 @@ section {
     display: grid;
     grid-template-rows: 70px 60px auto 30px 50px 30px 50px 30px;
     grid-template-columns: repeat(2, 1fr);
-    margin-left: 15rem;
+    margin-left: 16rem;
 }
 section h1 {
     text-transform: uppercase;

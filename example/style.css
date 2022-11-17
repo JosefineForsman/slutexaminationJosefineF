@@ -52,7 +52,7 @@ main{
   }
 #Solen{
     position: fixed;
-    top: -189px;
+    top: -220px;
     left: -1200px;
     background-color:#FFD029;
     border-radius: 50%;
@@ -155,7 +155,7 @@ main{
     width: 1340px;
     height: 1340px;
     position: absolute;
-    top: -200px;
+    top: -230px;
     left: -1170px;
     background-color: #428ED41A;
     border-radius: 50%;
@@ -163,7 +163,7 @@ main{
 .circle3{
     width: 1404px;
     height: 1404px;
-    top: -240px;
+    top: -260px;
     left: -1184px;
     position: absolute;
     background-color: #428ED40F;
